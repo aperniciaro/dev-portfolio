@@ -70,8 +70,13 @@ p.lead {
   }
 }
 
+.project-tile {
+  height: 15rem;
+  margin: 2rem;
+}
+
 .dev-icons {
-  font-size: 3rem;
+  font-size: 1rem;
   .list-inline-item i {
     &:hover {
       color: $primary;
